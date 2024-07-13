@@ -1,9 +1,13 @@
 # CODTECH-task-1
 
 Name: AKSHAT ADITYA
+
 Company: CODTECH IT SOLUTIONS
+
 Domain: BLOCKCHAIN TECHNOLOGY
+
 Intern ID:CT6WDS286
+
 Duration:10 June to 22 July
 
 
